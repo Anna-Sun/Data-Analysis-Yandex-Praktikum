@@ -2,5 +2,5 @@
 
 Проведена оценка окупаемости рекламы, построены графики LTV и ROI, графики динамики LTV, CAC и ROI, а также графики удержания и конверсии и их динамики.
 
-Инструменты: Python, Pandas, NumPy, SciPy, Matplotlib, Seaborn
+Инструменты: Python, Pandas, NumPy, Matplotlib, Seaborn
 
